@@ -1,5 +1,7 @@
 node_modules
 images
 coverage
+collages
 
 .env
+yarn-error.log
